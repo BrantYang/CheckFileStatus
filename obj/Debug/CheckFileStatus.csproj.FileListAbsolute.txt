@@ -1,0 +1,8 @@
+c:\users\administrator\documents\visual studio 2015\Projects\CheckFileStatus\CheckFileStatus\bin\Debug\CheckFileStatus.exe
+c:\users\administrator\documents\visual studio 2015\Projects\CheckFileStatus\CheckFileStatus\bin\Debug\CheckFileStatus.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\CheckFileStatus\CheckFileStatus\obj\Debug\CheckFileStatus.Form1.resources
+c:\users\administrator\documents\visual studio 2015\Projects\CheckFileStatus\CheckFileStatus\obj\Debug\CheckFileStatus.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\CheckFileStatus\CheckFileStatus\obj\Debug\CheckFileStatus.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\CheckFileStatus\CheckFileStatus\obj\Debug\CheckFileStatus.exe
+c:\users\administrator\documents\visual studio 2015\Projects\CheckFileStatus\CheckFileStatus\obj\Debug\CheckFileStatus.pdb
+C:\Users\Administrator\documents\visual studio 2015\Projects\CheckFileStatus\CheckFileStatus\obj\Debug\CheckFileStatus.csprojResolveAssemblyReference.cache
